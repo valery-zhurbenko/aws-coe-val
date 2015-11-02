@@ -1,6 +1,6 @@
 <?php
 session_start();
-require 'vendor/autoload.php';
+require 'aws/aws-autoloader.php';
 require 'config.php';
 
 
